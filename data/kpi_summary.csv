@@ -1,0 +1,5 @@
+KPI,Value,Description
+Lead Time Reduction (%),33.7%,Avg lead-time reduction among scenarios that benefit from reassignment
+Profit Impact Stability,Stable (corr=0.007),Correlation between distance/factory and gross profit (near-zero = profit-neutral)
+Scenario Confidence Score,0.894 avg (adjusted for low-volume scenarios),"Model reliability, adjusted down for scenarios with <20 supporting orders"
+Recommendation Coverage (%),100.0%,% of real orders covered by simulated scenarios

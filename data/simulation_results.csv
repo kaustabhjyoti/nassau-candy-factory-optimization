@@ -1,0 +1,406 @@
+Factory,Distance (km),Predicted Lead Time,Original Factory,Region,Ship Mode,Division
+Lot's O' Nuts,1594.3070244623425,5.522018134477964,Wicked Choccy's,Interior,Standard Class,Chocolate
+Wicked Choccy's,1385.22305169519,5.238815370806101,Wicked Choccy's,Interior,Standard Class,Chocolate
+Sugar Shack,2042.7423143785559,6.12976766276404,Wicked Choccy's,Interior,Standard Class,Chocolate
+Secret Factory,1369.5640708816766,5.22250781201906,Wicked Choccy's,Interior,Standard Class,Chocolate
+The Other Factory,781.6959282884843,4.443104287941296,Wicked Choccy's,Interior,Standard Class,Chocolate
+Lot's O' Nuts,2300.48476390969,6.400454853216193,Lot's O' Nuts,Interior,Standard Class,Chocolate
+Wicked Choccy's,1246.4569711339834,5.066199875200494,Lot's O' Nuts,Interior,Standard Class,Chocolate
+Sugar Shack,946.4244842378212,4.766023404616343,Lot's O' Nuts,Interior,Standard Class,Chocolate
+Secret Factory,204.23932180181185,3.77292367524454,Lot's O' Nuts,Interior,Standard Class,Chocolate
+The Other Factory,756.8299942834068,4.41217276991741,Lot's O' Nuts,Interior,Standard Class,Chocolate
+Lot's O' Nuts,3343.480670048191,7.709976099072259,Wicked Choccy's,Atlantic,Standard Class,Chocolate
+Wicked Choccy's,1024.6032249256082,4.8023348243229425,Wicked Choccy's,Atlantic,Standard Class,Chocolate
+Sugar Shack,1901.0039825617444,5.9655606976731566,Wicked Choccy's,Atlantic,Standard Class,Chocolate
+Secret Factory,1307.2112874004342,5.157051029353506,Wicked Choccy's,Atlantic,Standard Class,Chocolate
+The Other Factory,1409.7831562621138,5.236507568781359,Wicked Choccy's,Atlantic,Standard Class,Chocolate
+Lot's O' Nuts,2255.6471221598526,6.320561420359105,Lot's O' Nuts,Gulf,Standard Class,Chocolate
+Wicked Choccy's,864.5734209894242,4.567044427562099,Lot's O' Nuts,Gulf,Standard Class,Chocolate
+Sugar Shack,1346.2800060507961,5.239297795699937,Lot's O' Nuts,Gulf,Standard Class,Chocolate
+Secret Factory,483.42190977154127,4.0960892054502285,Lot's O' Nuts,Gulf,Standard Class,Chocolate
+The Other Factory,365.24353091512046,3.9009475630975325,Lot's O' Nuts,Gulf,Standard Class,Chocolate
+Lot's O' Nuts,2255.6471221598526,6.320561420359105,Wicked Choccy's,Gulf,Standard Class,Chocolate
+Wicked Choccy's,864.5734209894242,4.567044427562099,Wicked Choccy's,Gulf,Standard Class,Chocolate
+Sugar Shack,1346.2800060507961,5.239297795699937,Wicked Choccy's,Gulf,Standard Class,Chocolate
+Secret Factory,483.42190977154127,4.0960892054502285,Wicked Choccy's,Gulf,Standard Class,Chocolate
+The Other Factory,365.24353091512046,3.9009475630975325,Wicked Choccy's,Gulf,Standard Class,Chocolate
+Lot's O' Nuts,2629.3183597396064,4.777870544656924,Wicked Choccy's,Gulf,First Class,Chocolate
+Wicked Choccy's,298.94071572615763,1.8559238105108926,Wicked Choccy's,Gulf,First Class,Chocolate
+Sugar Shack,1900.225881669473,3.920856216831391,Wicked Choccy's,Gulf,First Class,Chocolate
+Secret Factory,1044.6216129882825,2.7866708910625526,Wicked Choccy's,Gulf,First Class,Chocolate
+The Other Factory,617.486222068985,2.2072078962411754,Wicked Choccy's,Gulf,First Class,Chocolate
+Lot's O' Nuts,614.4382858116559,3.2831148010695177,Wicked Choccy's,Pacific,Second Class,Chocolate
+Wicked Choccy's,3450.3594814978314,6.787689815284583,Wicked Choccy's,Pacific,Second Class,Chocolate
+Sugar Shack,2406.230384330631,5.561908148957123,Wicked Choccy's,Pacific,Second Class,Chocolate
+Secret Factory,2555.479269984209,5.677691292030691,Wicked Choccy's,Pacific,Second Class,Chocolate
+The Other Factory,2582.1409708122683,5.662720783986746,Wicked Choccy's,Pacific,Second Class,Chocolate
+Lot's O' Nuts,3166.6030032392973,7.407778759262886,Secret Factory,Gulf,Standard Class,Other
+Wicked Choccy's,824.5293820648177,4.471283030967288,Secret Factory,Gulf,Standard Class,Other
+Sugar Shack,1844.7008311589045,5.813349792949712,Secret Factory,Gulf,Standard Class,Other
+Secret Factory,1175.0597219621336,4.910489894900429,Secret Factory,Gulf,Standard Class,Other
+The Other Factory,1205.9428781898605,4.900770588108575,Secret Factory,Gulf,Standard Class,Other
+Lot's O' Nuts,3310.4772659878126,5.6614098355732665,Wicked Choccy's,Atlantic,First Class,Chocolate
+Wicked Choccy's,933.9155384244541,2.6820132661445975,Wicked Choccy's,Atlantic,First Class,Chocolate
+Sugar Shack,1928.9257827335293,3.9927812134856193,Wicked Choccy's,Atlantic,First Class,Chocolate
+Secret Factory,1298.8750014291852,3.1391689705023422,Wicked Choccy's,Atlantic,First Class,Chocolate
+The Other Factory,1355.2806288941583,3.1611978690635523,Wicked Choccy's,Atlantic,First Class,Chocolate
+Lot's O' Nuts,1107.579150381621,4.884814219596002,Wicked Choccy's,Pacific,Standard Class,Chocolate
+Wicked Choccy's,3788.7546569502565,8.196896200125696,Wicked Choccy's,Pacific,Standard Class,Chocolate
+Sugar Shack,2407.0099632943643,6.551143866064537,Wicked Choccy's,Pacific,Standard Class,Chocolate
+Secret Factory,2741.866434468095,6.897810127210965,Wicked Choccy's,Pacific,Standard Class,Chocolate
+The Other Factory,2901.6829389216177,7.048475070763844,Wicked Choccy's,Pacific,Standard Class,Chocolate
+Lot's O' Nuts,2968.8130823714146,6.219425032581658,Lot's O' Nuts,Gulf,Second Class,Chocolate
+Wicked Choccy's,139.53489536843844,2.67688020891865,Lot's O' Nuts,Gulf,Second Class,Chocolate
+Sugar Shack,2183.5026319127414,5.292479399306377,Lot's O' Nuts,Gulf,Second Class,Chocolate
+Secret Factory,1349.0477234592793,4.184602428451696,Lot's O' Nuts,Gulf,Second Class,Chocolate
+The Other Factory,966.538965282595,3.6606519068292567,Lot's O' Nuts,Gulf,Second Class,Chocolate
+Lot's O' Nuts,2730.285876960874,6.947203794172733,Lot's O' Nuts,Atlantic,Standard Class,Chocolate
+Wicked Choccy's,895.3293859552412,4.641527026823273,Lot's O' Nuts,Atlantic,Standard Class,Chocolate
+Sugar Shack,1415.701589657809,5.361877775082068,Lot's O' Nuts,Atlantic,Standard Class,Chocolate
+Secret Factory,704.5256300577935,4.407351369207061,Lot's O' Nuts,Atlantic,Standard Class,Chocolate
+The Other Factory,863.5355683324283,4.5570129997014135,Lot's O' Nuts,Atlantic,Standard Class,Chocolate
+Lot's O' Nuts,1685.9675509519843,4.623653095406195,Wicked Choccy's,Gulf,Second Class,Chocolate
+Wicked Choccy's,1188.875815184352,3.9821884096022733,Wicked Choccy's,Gulf,Second Class,Chocolate
+Sugar Shack,1747.124757483315,4.749655225262401,Wicked Choccy's,Gulf,Second Class,Chocolate
+Secret Factory,1031.9125377358182,3.790107988338965,Wicked Choccy's,Gulf,Second Class,Chocolate
+The Other Factory,452.1586532000498,3.0207980452745806,Wicked Choccy's,Gulf,Second Class,Chocolate
+Lot's O' Nuts,1685.9675509519843,4.577703739311962,The Other Factory,Gulf,Second Class,Other
+Wicked Choccy's,1188.875815184352,3.9362390535080403,The Other Factory,Gulf,Second Class,Other
+Sugar Shack,1747.124757483315,4.703705869168169,The Other Factory,Gulf,Second Class,Other
+Secret Factory,1031.9125377358182,3.7441586322447318,The Other Factory,Gulf,Second Class,Other
+The Other Factory,452.1586532000498,2.974848689180348,The Other Factory,Gulf,Second Class,Other
+Lot's O' Nuts,1107.579150381621,4.884814219596002,Lot's O' Nuts,Pacific,Standard Class,Chocolate
+Wicked Choccy's,3788.7546569502565,8.196896200125696,Lot's O' Nuts,Pacific,Standard Class,Chocolate
+Sugar Shack,2407.0099632943643,6.551143866064537,Lot's O' Nuts,Pacific,Standard Class,Chocolate
+Secret Factory,2741.866434468095,6.897810127210965,Lot's O' Nuts,Pacific,Standard Class,Chocolate
+The Other Factory,2901.6829389216177,7.048475070763844,Lot's O' Nuts,Pacific,Standard Class,Chocolate
+Lot's O' Nuts,3343.480670048191,5.656514452651113,Secret Factory,Atlantic,First Class,Other
+Wicked Choccy's,1024.6032249256082,2.748873177901797,Secret Factory,Atlantic,First Class,Other
+Sugar Shack,1901.0039825617444,3.9120990512520106,Secret Factory,Atlantic,First Class,Other
+Secret Factory,1307.2112874004342,3.10358938293236,Secret Factory,Atlantic,First Class,Other
+The Other Factory,1409.7831562621138,3.1830459223602126,Secret Factory,Atlantic,First Class,Other
+Lot's O' Nuts,2538.3656750138744,4.664731637172484,Lot's O' Nuts,Gulf,First Class,Chocolate
+Wicked Choccy's,373.9402724055248,1.9492181198554557,Lot's O' Nuts,Gulf,First Class,Chocolate
+Sugar Shack,1849.5613519082124,3.8578330134736545,Lot's O' Nuts,Gulf,First Class,Chocolate
+Secret Factory,988.838351859398,2.7172803366322698,Lot's O' Nuts,Gulf,First Class,Chocolate
+The Other Factory,527.8848148414098,2.095749885371396,Lot's O' Nuts,Gulf,First Class,Chocolate
+Lot's O' Nuts,3343.480670048191,6.721710124776951,Wicked Choccy's,Atlantic,Second Class,Chocolate
+Wicked Choccy's,1024.6032249256082,3.814068850027636,Wicked Choccy's,Atlantic,Second Class,Chocolate
+Sugar Shack,1901.0039825617444,4.977294723377851,Wicked Choccy's,Atlantic,Second Class,Chocolate
+Secret Factory,1307.2112874004342,4.1687850550581995,Wicked Choccy's,Atlantic,Second Class,Chocolate
+The Other Factory,1409.7831562621138,4.248241594486052,Wicked Choccy's,Atlantic,Second Class,Chocolate
+Lot's O' Nuts,3343.480670048191,6.721710124776951,Lot's O' Nuts,Atlantic,Second Class,Chocolate
+Wicked Choccy's,1024.6032249256082,3.814068850027636,Lot's O' Nuts,Atlantic,Second Class,Chocolate
+Sugar Shack,1901.0039825617444,4.977294723377851,Lot's O' Nuts,Atlantic,Second Class,Chocolate
+Secret Factory,1307.2112874004342,4.1687850550581995,Lot's O' Nuts,Atlantic,Second Class,Chocolate
+The Other Factory,1409.7831562621138,4.248241594486052,Lot's O' Nuts,Atlantic,Second Class,Chocolate
+Lot's O' Nuts,1578.349461319377,4.4821542537018875,Lot's O' Nuts,Pacific,Second Class,Chocolate
+Wicked Choccy's,3856.836043424779,7.293318805491131,Lot's O' Nuts,Pacific,Second Class,Chocolate
+Sugar Shack,2107.624459192631,5.190462839339606,Lot's O' Nuts,Pacific,Second Class,Chocolate
+Secret Factory,2648.7600465958913,5.793726186294345,Lot's O' Nuts,Pacific,Second Class,Chocolate
+The Other Factory,2977.7751279114123,6.154862565537266,Lot's O' Nuts,Pacific,Second Class,Chocolate
+Lot's O' Nuts,69.65654980228574,1.5861973353028551,Wicked Choccy's,Pacific,First Class,Chocolate
+Wicked Choccy's,2876.529125425159,5.054637856646124,Wicked Choccy's,Pacific,First Class,Chocolate
+Sugar Shack,2089.247056858164,4.148356294071299,Wicked Choccy's,Pacific,First Class,Chocolate
+Secret Factory,2074.6990620587994,4.060387341649411,Wicked Choccy's,Pacific,First Class,Chocolate
+The Other Factory,2020.5520310530096,3.94489630842851,Wicked Choccy's,Pacific,First Class,Chocolate
+Lot's O' Nuts,69.65654980228574,1.5861973353028551,Lot's O' Nuts,Pacific,First Class,Chocolate
+Wicked Choccy's,2876.529125425159,5.054637856646124,Lot's O' Nuts,Pacific,First Class,Chocolate
+Sugar Shack,2089.247056858164,4.148356294071299,Lot's O' Nuts,Pacific,First Class,Chocolate
+Secret Factory,2074.6990620587994,4.060387341649411,Lot's O' Nuts,Pacific,First Class,Chocolate
+The Other Factory,2020.5520310530096,3.94489630842851,Lot's O' Nuts,Pacific,First Class,Chocolate
+Lot's O' Nuts,1448.346644516123,3.332941133082582,Wicked Choccy's,Interior,First Class,Chocolate
+Wicked Choccy's,2340.943331236678,4.420153619791045,Wicked Choccy's,Interior,First Class,Chocolate
+Sugar Shack,704.3863291944674,2.45743223449901,Wicked Choccy's,Interior,First Class,Chocolate
+Secret Factory,1073.160813485,2.846290179812318,Wicked Choccy's,Interior,First Class,Chocolate
+The Other Factory,1507.6590653638218,3.338640395254956,Wicked Choccy's,Interior,First Class,Chocolate
+Lot's O' Nuts,2419.8851381939116,4.541468446874848,Lot's O' Nuts,Interior,First Class,Chocolate
+Wicked Choccy's,1507.7081064236172,3.3836660955670266,Lot's O' Nuts,Interior,First Class,Chocolate
+Sugar Shack,743.9632148217926,2.506663168308327,Lot's O' Nuts,Interior,First Class,Chocolate
+Secret Factory,399.1768574466945,2.0079003216332176,Lot's O' Nuts,Interior,First Class,Chocolate
+The Other Factory,1057.9073889306508,2.7791801279259984,Lot's O' Nuts,Interior,First Class,Chocolate
+Lot's O' Nuts,504.5068591544657,4.088684257296146,The Other Factory,Pacific,Standard Class,Other
+Wicked Choccy's,3371.179278642659,7.631511686767135,The Other Factory,Pacific,Standard Class,Other
+Sugar Shack,2452.0257266591448,6.561191034998975,The Other Factory,Pacific,Standard Class,Other
+Secret Factory,2538.2727337466936,6.598604158188884,The Other Factory,Pacific,Standard Class,Other
+The Other Factory,2515.4130417652677,6.5220324308244955,The Other Factory,Pacific,Standard Class,Other
+Lot's O' Nuts,2300.905654464467,5.412712437930513,Lot's O' Nuts,Interior,Second Class,Chocolate
+Wicked Choccy's,1232.093858390189,4.060067172849727,Lot's O' Nuts,Interior,Second Class,Chocolate
+Sugar Shack,960.3157309716065,3.7950371893935313,Lot's O' Nuts,Interior,Second Class,Chocolate
+Secret Factory,207.25399530519246,2.788407748214174,Lot's O' Nuts,Interior,Second Class,Chocolate
+The Other Factory,744.3412283380825,3.408371626548825,Lot's O' Nuts,Interior,Second Class,Chocolate
+Lot's O' Nuts,480.043539901009,2.050741274108155,Secret Factory,Pacific,First Class,Other
+Wicked Choccy's,3149.323035220754,5.348025431789841,Secret Factory,Pacific,First Class,Other
+Sugar Shack,2037.9259200539955,4.038566960450373,Secret Factory,Pacific,First Class,Other
+Secret Factory,2197.4544866084548,4.167137322174182,Secret Factory,Pacific,First Class,Other
+The Other Factory,2269.0716745246664,4.208088359601071,Secret Factory,Pacific,First Class,Other
+Lot's O' Nuts,1871.078730157925,4.878037196951276,Wicked Choccy's,Interior,Second Class,Chocolate
+Wicked Choccy's,1271.2996452094758,4.108836485170499,Wicked Choccy's,Interior,Second Class,Chocolate
+Sugar Shack,1065.1235166329682,3.925410893054365,Wicked Choccy's,Interior,Second Class,Chocolate
+Secret Factory,315.3985793809281,2.9229322004563882,Wicked Choccy's,Interior,Second Class,Chocolate
+The Other Factory,475.1001600721391,3.0734541867238265,Wicked Choccy's,Interior,Second Class,Chocolate
+Lot's O' Nuts,925.6871782353663,1.711041768841279,Wicked Choccy's,Interior,Same Day,Chocolate
+Wicked Choccy's,1943.557414018443,2.954085966514314,Wicked Choccy's,Interior,Same Day,Chocolate
+Sugar Shack,1683.6557368765136,2.7038294733970316,Wicked Choccy's,Interior,Same Day,Chocolate
+Secret Factory,1322.3313790928225,2.184494487440408,Wicked Choccy's,Interior,Same Day,Chocolate
+The Other Factory,1102.7619244210402,1.863229294353463,Wicked Choccy's,Interior,Same Day,Chocolate
+Lot's O' Nuts,511.61053853566125,4.129268539068404,Secret Factory,Interior,Standard Class,Other
+Wicked Choccy's,2391.8869611900473,6.445086938895775,Secret Factory,Interior,Standard Class,Other
+Sugar Shack,2015.8611543085403,6.050379985509668,Secret Factory,Interior,Standard Class,Other
+Secret Factory,1778.3579146109896,5.6850699859073455,Secret Factory,Interior,Standard Class,Other
+The Other Factory,1575.253761709209,5.384286499977006,Secret Factory,Interior,Standard Class,Other
+Lot's O' Nuts,2678.25691075435,4.874971035044906,Lot's O' Nuts,Atlantic,First Class,Chocolate
+Wicked Choccy's,893.5317198186882,2.631778563003245,Lot's O' Nuts,Atlantic,First Class,Chocolate
+Sugar Shack,1386.7554086409389,3.3183584190377307,Lot's O' Nuts,Atlantic,First Class,Chocolate
+Secret Factory,658.4352304516789,2.3425057800041245,Lot's O' Nuts,Atlantic,First Class,Chocolate
+The Other Factory,816.7746483767278,2.49133332912939,Lot's O' Nuts,Atlantic,First Class,Chocolate
+Lot's O' Nuts,2843.6308703421755,4.072713820423014,Lot's O' Nuts,Gulf,Same Day,Chocolate
+Wicked Choccy's,214.06061692841786,0.7785919816382845,Lot's O' Nuts,Gulf,Same Day,Chocolate
+Sugar Shack,2011.5356042974734,3.0875710823758835,Lot's O' Nuts,Gulf,Same Day,Chocolate
+Secret Factory,1176.7119921360177,1.9792354693729959,Lot's O' Nuts,Gulf,Same Day,Chocolate
+The Other Factory,827.3634095034248,1.4965339339059849,Lot's O' Nuts,Gulf,Same Day,Chocolate
+Lot's O' Nuts,2345.287640716494,4.402724915533136,Secret Factory,Interior,First Class,Other
+Wicked Choccy's,1233.724228587547,2.9968995695321965,Secret Factory,Interior,First Class,Other
+Sugar Shack,965.6396102842616,2.736464058326586,Secret Factory,Interior,First Class,Other
+Secret Factory,248.92713156003214,1.7750506020377381,Secret Factory,Interior,First Class,Other
+The Other Factory,778.6270174011954,2.385825126666113,Secret Factory,Interior,First Class,Other
+Lot's O' Nuts,2345.287640716494,4.456523570006764,Sugar Shack,Interior,First Class,Sugar
+Wicked Choccy's,1233.724228587547,3.050698224005825,Sugar Shack,Interior,First Class,Sugar
+Sugar Shack,965.6396102842616,2.7902627128002147,Sugar Shack,Interior,First Class,Sugar
+Secret Factory,248.92713156003214,1.8288492565113668,Sugar Shack,Interior,First Class,Sugar
+The Other Factory,778.6270174011954,2.4396237811397414,Sugar Shack,Interior,First Class,Sugar
+Lot's O' Nuts,3444.7116796335486,7.789951182290304,Secret Factory,Atlantic,Standard Class,Other
+Wicked Choccy's,1149.7480903578003,4.912057105574888,Secret Factory,Atlantic,Standard Class,Other
+Sugar Shack,1935.0417325446479,5.961951970202554,Secret Factory,Atlantic,Standard Class,Other
+Secret Factory,1388.2632992536146,5.211924822110099,Secret Factory,Atlantic,Standard Class,Other
+The Other Factory,1529.490107829137,5.339465457805027,Secret Factory,Atlantic,Standard Class,Other
+Lot's O' Nuts,3444.7116796335486,7.789951182290304,The Other Factory,Atlantic,Standard Class,Other
+Wicked Choccy's,1149.7480903578003,4.912057105574888,The Other Factory,Atlantic,Standard Class,Other
+Sugar Shack,1935.0417325446479,5.961951970202554,The Other Factory,Atlantic,Standard Class,Other
+Secret Factory,1388.2632992536146,5.211924822110099,The Other Factory,Atlantic,Standard Class,Other
+The Other Factory,1529.490107829137,5.339465457805027,The Other Factory,Atlantic,Standard Class,Other
+Lot's O' Nuts,1397.7234306959692,2.2982225217512884,Lot's O' Nuts,Interior,Same Day,Chocolate
+Wicked Choccy's,1475.0631640283787,2.3713112219704384,Lot's O' Nuts,Interior,Same Day,Chocolate
+Sugar Shack,1706.8292654421175,2.732655755022231,Lot's O' Nuts,Interior,Same Day,Chocolate
+Secret Factory,1110.4292552867905,1.9209027655100237,Lot's O' Nuts,Interior,Same Day,Chocolate
+The Other Factory,681.118254640075,1.3387334612661723,Lot's O' Nuts,Interior,Same Day,Chocolate
+Lot's O' Nuts,2856.0146256492603,7.075226754337452,Sugar Shack,Gulf,Standard Class,Sugar
+Wicked Choccy's,201.98395204492553,3.7506778289272162,Sugar Shack,Gulf,Standard Class,Sugar
+Sugar Shack,2332.002150980386,6.4733178981281885,Sugar Shack,Gulf,Standard Class,Sugar
+Secret Factory,1472.1511638651914,5.333849945623635,Sugar Shack,Gulf,Standard Class,Sugar
+The Other Factory,942.0929707467393,4.626358037404443,Sugar Shack,Gulf,Standard Class,Sugar
+Lot's O' Nuts,2898.262198607584,5.066468895383552,The Other Factory,Gulf,First Class,Other
+Wicked Choccy's,456.4476598638691,2.0059023001387537,The Other Factory,Gulf,First Class,Other
+Sugar Shack,2547.2157845055153,4.679717966435334,The Other Factory,Gulf,First Class,Other
+Secret Factory,1683.6923797184995,3.5356817779906393,The Other Factory,Gulf,First Class,Other
+The Other Factory,1093.1543096181874,2.7529570470443896,The Other Factory,Gulf,First Class,Other
+Lot's O' Nuts,3166.6030032392973,7.407778759262886,The Other Factory,Gulf,Standard Class,Other
+Wicked Choccy's,824.5293820648177,4.471283030967288,The Other Factory,Gulf,Standard Class,Other
+Sugar Shack,1844.7008311589045,5.813349792949712,The Other Factory,Gulf,Standard Class,Other
+Secret Factory,1175.0597219621336,4.910489894900429,The Other Factory,Gulf,Standard Class,Other
+The Other Factory,1205.9428781898605,4.900770588108575,The Other Factory,Gulf,Standard Class,Other
+Lot's O' Nuts,531.4657958102597,4.12221932719954,Secret Factory,Pacific,Standard Class,Other
+Wicked Choccy's,2384.9150004045696,6.404666506030889,Secret Factory,Pacific,Standard Class,Other
+Sugar Shack,1687.2325699771845,5.609840753701636,Secret Factory,Pacific,Standard Class,Other
+Secret Factory,1569.0320028478081,5.392935103844895,Secret Factory,Pacific,Standard Class,Other
+The Other Factory,1515.6452307580093,5.278389780620568,Secret Factory,Pacific,Standard Class,Other
+Lot's O' Nuts,2854.029052813432,4.085648446906767,Wicked Choccy's,Gulf,Same Day,Chocolate
+Wicked Choccy's,477.41463842275795,1.1061863386751556,Wicked Choccy's,Gulf,Same Day,Chocolate
+Sugar Shack,2535.6127017325844,3.7394870804602145,Wicked Choccy's,Gulf,Same Day,Chocolate
+Secret Factory,1671.8930775651243,2.5952068085517084,Wicked Choccy's,Gulf,Same Day,Chocolate
+The Other Factory,1068.0518667336453,1.795933882101669,Wicked Choccy's,Gulf,Same Day,Chocolate
+Lot's O' Nuts,3343.480670048191,4.730717006572126,Lot's O' Nuts,Atlantic,Same Day,Chocolate
+Wicked Choccy's,1024.6032249256082,1.8230757318228117,Lot's O' Nuts,Atlantic,Same Day,Chocolate
+Sugar Shack,1901.0039825617444,2.9863016051730256,Lot's O' Nuts,Atlantic,Same Day,Chocolate
+Secret Factory,1307.2112874004342,2.177791936853375,Lot's O' Nuts,Atlantic,Same Day,Chocolate
+The Other Factory,1409.7831562621138,2.2572484762812275,Lot's O' Nuts,Atlantic,Same Day,Chocolate
+Lot's O' Nuts,3343.480670048191,6.675760768682718,Secret Factory,Atlantic,Second Class,Other
+Wicked Choccy's,1024.6032249256082,3.768119493933403,Secret Factory,Atlantic,Second Class,Other
+Sugar Shack,1901.0039825617444,4.931345367283617,Secret Factory,Atlantic,Second Class,Other
+Secret Factory,1307.2112874004342,4.122835698963966,Secret Factory,Atlantic,Second Class,Other
+The Other Factory,1409.7831562621138,4.202292238391819,Secret Factory,Atlantic,Second Class,Other
+Lot's O' Nuts,614.4382858116559,1.2921216828646935,Lot's O' Nuts,Pacific,Same Day,Chocolate
+Wicked Choccy's,3450.3594814978314,4.796696697079758,Lot's O' Nuts,Pacific,Same Day,Chocolate
+Sugar Shack,2406.230384330631,3.570915030752298,Lot's O' Nuts,Pacific,Same Day,Chocolate
+Secret Factory,2555.479269984209,3.686698173825866,Lot's O' Nuts,Pacific,Same Day,Chocolate
+The Other Factory,2582.1409708122683,3.6717276657819213,Lot's O' Nuts,Pacific,Same Day,Chocolate
+Lot's O' Nuts,614.4382858116559,1.2921216828646935,Wicked Choccy's,Pacific,Same Day,Chocolate
+Wicked Choccy's,3450.3594814978314,4.796696697079758,Wicked Choccy's,Pacific,Same Day,Chocolate
+Sugar Shack,2406.230384330631,3.570915030752298,Wicked Choccy's,Pacific,Same Day,Chocolate
+Secret Factory,2555.479269984209,3.686698173825866,Wicked Choccy's,Pacific,Same Day,Chocolate
+The Other Factory,2582.1409708122683,3.6717276657819213,Wicked Choccy's,Pacific,Same Day,Chocolate
+Lot's O' Nuts,3486.1593149724317,6.853243226256859,The Other Factory,Atlantic,Second Class,Other
+Wicked Choccy's,1351.3852207462664,4.174613904782545,The Other Factory,Atlantic,Second Class,Other
+Sugar Shack,1846.715809176231,4.86381459955879,The Other Factory,Atlantic,Second Class,Other
+Secret Factory,1397.3446204596491,4.234955389119365,The Other Factory,Atlantic,Second Class,Other
+The Other Factory,1638.7833989342057,4.487152848584034,The Other Factory,Atlantic,Second Class,Other
+Lot's O' Nuts,3562.380885791745,5.003013875345339,Wicked Choccy's,Atlantic,Same Day,Chocolate
+Wicked Choccy's,1293.4022467345992,2.157443296145534,Wicked Choccy's,Atlantic,Same Day,Chocolate
+Sugar Shack,1983.53270504512,3.088961680859764,Wicked Choccy's,Atlantic,Same Day,Chocolate
+Secret Factory,1489.201196990695,2.4041749139620086,Wicked Choccy's,Atlantic,Same Day,Chocolate
+The Other Factory,1667.8660712955186,2.5782859380706107,Wicked Choccy's,Atlantic,Same Day,Chocolate
+Lot's O' Nuts,2255.6471221598526,3.295352971764741,The Other Factory,Gulf,Same Day,Other
+Wicked Choccy's,864.5734209894242,1.541835978967734,The Other Factory,Gulf,Same Day,Other
+Sugar Shack,1346.2800060507961,2.214089347105573,The Other Factory,Gulf,Same Day,Other
+Secret Factory,483.42190977154127,1.070880756855864,The Other Factory,Gulf,Same Day,Other
+The Other Factory,365.24353091512046,0.8757391145031685,The Other Factory,Gulf,Same Day,Other
+Lot's O' Nuts,1353.1744559411675,4.187850411878452,The Other Factory,Interior,Second Class,Other
+Wicked Choccy's,1623.2568639100962,4.500697792116371,The Other Factory,Interior,Second Class,Other
+Sugar Shack,2033.3541532185527,5.083874103192662,The Other Factory,Interior,Second Class,Other
+Secret Factory,1446.7887567812625,4.284354699252399,The Other Factory,Interior,Second Class,Other
+The Other Factory,946.7247894731132,3.6141735526589063,The Other Factory,Interior,Second Class,Other
+Lot's O' Nuts,2063.0841544850027,5.070929432009175,Secret Factory,Interior,Second Class,Other
+Wicked Choccy's,1750.215816552579,4.6586260296461806,Secret Factory,Interior,Second Class,Other
+Sugar Shack,446.6625873922949,3.1101385195351696,Secret Factory,Interior,Second Class,Other
+Secret Factory,417.3772250068273,3.003837291678903,Secret Factory,Interior,Second Class,Other
+The Other Factory,1095.8670971772822,3.799696363824304,Secret Factory,Interior,Second Class,Other
+Lot's O' Nuts,1654.0656527363005,4.530390651460062,The Other Factory,Pacific,Second Class,Other
+Wicked Choccy's,3868.6716402928355,7.262092120894897,The Other Factory,Pacific,Second Class,Other
+Sugar Shack,2073.425717483402,5.101972591945767,The Other Factory,Pacific,Second Class,Other
+Secret Factory,2642.515484153148,5.74000902241499,The Other Factory,Pacific,Second Class,Other
+The Other Factory,2994.0544991937363,6.129163631813409,The Other Factory,Pacific,Second Class,Other
+Lot's O' Nuts,1397.7234306959692,5.231532258157187,The Other Factory,Interior,Standard Class,Other
+Wicked Choccy's,1475.0631640283787,5.304620958376336,The Other Factory,Interior,Standard Class,Other
+Sugar Shack,1706.8292654421175,5.66596549142813,The Other Factory,Interior,Standard Class,Other
+Secret Factory,1110.4292552867905,4.854212501915923,The Other Factory,Interior,Standard Class,Other
+The Other Factory,681.118254640075,4.272043197672071,The Other Factory,Interior,Standard Class,Other
+Lot's O' Nuts,3292.299710411932,7.6541597907165375,Sugar Shack,Atlantic,Standard Class,Sugar
+Wicked Choccy's,972.4583747439359,4.745319502177013,Sugar Shack,Atlantic,Standard Class,Sugar
+Sugar Shack,1878.075081776201,5.944888014623217,Sugar Shack,Atlantic,Standard Class,Sugar
+Secret Factory,1265.0121581529802,5.1124075025430935,Sugar Shack,Atlantic,Standard Class,Sugar
+The Other Factory,1352.825303340111,5.173505201025916,Sugar Shack,Atlantic,Standard Class,Sugar
+Lot's O' Nuts,3166.6030032392973,5.400266468935973,Secret Factory,Gulf,First Class,Other
+Wicked Choccy's,824.5293820648177,2.463770740640375,Secret Factory,Gulf,First Class,Other
+Sugar Shack,1844.7008311589045,3.805837502622798,Secret Factory,Gulf,First Class,Other
+Secret Factory,1175.0597219621336,2.902977604573516,Secret Factory,Gulf,First Class,Other
+The Other Factory,1205.9428781898605,2.8932582977816614,Secret Factory,Gulf,First Class,Other
+Lot's O' Nuts,1107.579150381621,1.8596057710016378,Secret Factory,Pacific,Same Day,Other
+Wicked Choccy's,3788.7546569502565,5.17168775153133,Secret Factory,Pacific,Same Day,Other
+Sugar Shack,2407.0099632943643,3.5259354174701727,Secret Factory,Pacific,Same Day,Other
+Secret Factory,2741.866434468095,3.8726016786166015,Secret Factory,Pacific,Same Day,Other
+The Other Factory,2901.6829389216177,4.02326662216948,Secret Factory,Pacific,Same Day,Other
+Lot's O' Nuts,2378.9750844337973,5.439757624285812,Secret Factory,Gulf,Second Class,Other
+Wicked Choccy's,492.1770326392658,3.0695935076334595,Secret Factory,Gulf,Second Class,Other
+Sugar Shack,1936.7648368834973,4.939605133310824,Secret Factory,Gulf,Second Class,Other
+Secret Factory,1076.6682695066236,3.799831695788539,Secret Factory,Gulf,Second Class,Other
+The Other Factory,455.3980554840159,2.9788782836493373,Secret Factory,Gulf,Second Class,Other
+Lot's O' Nuts,1594.3070244623425,3.4685564880568185,The Other Factory,Interior,First Class,Other
+Wicked Choccy's,1385.22305169519,3.185353724384955,The Other Factory,Interior,First Class,Other
+Sugar Shack,2042.7423143785559,4.076306016342894,The Other Factory,Interior,First Class,Other
+Secret Factory,1369.5640708816766,3.1690461655979147,The Other Factory,Interior,First Class,Other
+The Other Factory,781.6959282884843,2.3896426415201493,The Other Factory,Interior,First Class,Other
+Lot's O' Nuts,614.4382858116559,3.237165444975285,Secret Factory,Pacific,Second Class,Other
+Wicked Choccy's,3450.3594814978314,6.74174045919035,Secret Factory,Pacific,Second Class,Other
+Sugar Shack,2406.230384330631,5.5159587928628895,Secret Factory,Pacific,Second Class,Other
+Secret Factory,2555.479269984209,5.631741935936457,Secret Factory,Pacific,Second Class,Other
+The Other Factory,2582.1409708122683,5.6167714278925125,Secret Factory,Pacific,Second Class,Other
+Lot's O' Nuts,3572.870359617027,5.941859508096963,The Other Factory,Atlantic,First Class,Other
+Wicked Choccy's,1386.979768179998,3.19964476672759,The Other Factory,Atlantic,First Class,Other
+Sugar Shack,1932.6114662800119,3.9514165951705937,The Other Factory,Atlantic,First Class,Other
+Secret Factory,1485.8567759567784,3.3258121294432237,The Other Factory,Atlantic,First Class,Other
+The Other Factory,1712.8472349563751,3.5600368695174485,The Other Factory,Atlantic,First Class,Other
+Lot's O' Nuts,89.11379552685445,3.625762404429476,Sugar Shack,Pacific,Standard Class,Sugar
+Wicked Choccy's,2904.344684186781,7.1046000944575045,Sugar Shack,Pacific,Standard Class,Sugar
+Sugar Shack,2097.6833929772442,6.1742121068300655,Sugar Shack,Pacific,Standard Class,Sugar
+Secret Factory,2094.402254661149,6.100258351839072,Sugar Shack,Pacific,Standard Class,Sugar
+The Other Factory,2046.994017442481,5.993149916329683,Sugar Shack,Pacific,Standard Class,Sugar
+Lot's O' Nuts,3343.480670048191,4.684767650477894,The Other Factory,Atlantic,Same Day,Other
+Wicked Choccy's,1024.6032249256082,1.777126375728579,The Other Factory,Atlantic,Same Day,Other
+Sugar Shack,1901.0039825617444,2.940352249078793,The Other Factory,Atlantic,Same Day,Other
+Secret Factory,1307.2112874004342,2.131842580759142,The Other Factory,Atlantic,Same Day,Other
+The Other Factory,1409.7831562621138,2.2112991201869945,The Other Factory,Atlantic,Same Day,Other
+Lot's O' Nuts,3444.7116796335486,4.810692089790172,Secret Factory,Atlantic,Same Day,Other
+Wicked Choccy's,1149.7480903578003,1.932798013074758,Secret Factory,Atlantic,Same Day,Other
+Sugar Shack,1935.0417325446479,2.982692877702422,Secret Factory,Atlantic,Same Day,Other
+Secret Factory,1388.2632992536146,2.232665729609968,Secret Factory,Atlantic,Same Day,Other
+The Other Factory,1529.490107829137,2.3602063653048964,Secret Factory,Atlantic,Same Day,Other
+Lot's O' Nuts,2722.9400603563595,3.9007518456664863,Secret Factory,Interior,Same Day,Other
+Wicked Choccy's,1153.3634969498162,1.925189523727855,Secret Factory,Interior,Same Day,Other
+Sugar Shack,1210.9101073003915,2.0698169478694477,Secret Factory,Interior,Same Day,Other
+Secret Factory,629.9128006591839,1.2772238660955237,Secret Factory,Interior,Same Day,Other
+The Other Factory,1001.3685732702656,1.6911535571636387,Secret Factory,Interior,Same Day,Other
+Lot's O' Nuts,1578.349461319377,3.416958581576047,The Other Factory,Pacific,First Class,Other
+Wicked Choccy's,3856.836043424779,6.22812313336529,The Other Factory,Pacific,First Class,Other
+Sugar Shack,2107.624459192631,4.125267167213767,The Other Factory,Pacific,First Class,Other
+Secret Factory,2648.7600465958913,4.728530514168506,The Other Factory,Pacific,First Class,Other
+The Other Factory,2977.7751279114123,5.089666893411427,The Other Factory,Pacific,First Class,Other
+Lot's O' Nuts,1392.5197104596489,5.27885784122927,Sugar Shack,Interior,Standard Class,Sugar
+Wicked Choccy's,1477.2586180808596,5.361150607253034,Sugar Shack,Interior,Standard Class,Sugar
+Sugar Shack,1665.2927702839438,5.668095592113604,Sugar Shack,Interior,Standard Class,Sugar
+Secret Factory,1075.0666457215646,4.864022493228335,Sugar Shack,Interior,Standard Class,Sugar
+The Other Factory,667.3794372092215,4.3087517046812,Sugar Shack,Interior,Standard Class,Sugar
+Lot's O' Nuts,69.65654980228574,1.5940466336822512,The Other Factory,Pacific,First Class,Sugar
+Wicked Choccy's,2876.529125425159,5.06248715502552,The Other Factory,Pacific,First Class,Sugar
+Sugar Shack,2089.247056858164,4.156205592450695,The Other Factory,Pacific,First Class,Sugar
+Secret Factory,2074.6990620587994,4.0682366400288075,The Other Factory,Pacific,First Class,Sugar
+The Other Factory,2020.5520310530096,3.952745606807906,The Other Factory,Pacific,First Class,Sugar
+Lot's O' Nuts,2608.3475463339687,6.767145878461264,Secret Factory,Gulf,Standard Class,Sugar
+Wicked Choccy's,353.90810774859654,3.939661068384538,Secret Factory,Gulf,Standard Class,Sugar
+Sugar Shack,2210.837794112609,6.322597740681349,Secret Factory,Gulf,Standard Class,Sugar
+Secret Factory,1347.501925441617,5.178794834314525,Secret Factory,Gulf,Standard Class,Sugar
+The Other Factory,743.8524483273615,4.379760411470619,Secret Factory,Gulf,Standard Class,Sugar
+Lot's O' Nuts,614.4382858116559,4.2792300737442215,The Other Factory,Pacific,Standard Class,Sugar
+Wicked Choccy's,3450.3594814978314,7.783805087959287,The Other Factory,Pacific,Standard Class,Sugar
+Sugar Shack,2406.230384330631,6.558023421631825,The Other Factory,Pacific,Standard Class,Sugar
+Secret Factory,2555.479269984209,6.673806564705393,The Other Factory,Pacific,Standard Class,Sugar
+The Other Factory,2582.1409708122683,6.658836056661448,The Other Factory,Pacific,Standard Class,Sugar
+Lot's O' Nuts,2345.287640716494,5.475769886038371,Sugar Shack,Interior,Second Class,Sugar
+Wicked Choccy's,1233.724228587547,4.069944540037432,Sugar Shack,Interior,Second Class,Sugar
+Sugar Shack,965.6396102842616,3.809509028831821,Sugar Shack,Interior,Second Class,Sugar
+Secret Factory,248.92713156003214,2.848095572542973,Sugar Shack,Interior,Second Class,Sugar
+The Other Factory,778.6270174011954,3.4588700971713484,Sugar Shack,Interior,Second Class,Sugar
+Lot's O' Nuts,2444.7766665131257,5.575408937970682,Sugar Shack,Gulf,Second Class,Sugar
+Wicked Choccy's,511.7687227560174,3.1477628821387955,Sugar Shack,Gulf,Second Class,Sugar
+Sugar Shack,1708.1682935121632,4.709045351859856,Sugar Shack,Gulf,Second Class,Sugar
+Secret Factory,846.4819365878051,3.567294325077012,Sugar Shack,Gulf,Second Class,Sugar
+The Other Factory,424.21855014372625,2.9938917699803964,Sugar Shack,Gulf,Second Class,Sugar
+Lot's O' Nuts,3444.7116796335486,5.836237546437019,Sugar Shack,Atlantic,First Class,Sugar
+Wicked Choccy's,1149.7480903578003,2.958343469721605,Sugar Shack,Atlantic,First Class,Sugar
+Sugar Shack,1935.0417325446479,4.008238334349269,Sugar Shack,Atlantic,First Class,Sugar
+Secret Factory,1388.2632992536146,3.2582111862568146,Sugar Shack,Atlantic,First Class,Sugar
+The Other Factory,1529.490107829137,3.385751821951743,Sugar Shack,Atlantic,First Class,Sugar
+Lot's O' Nuts,880.8085518926165,2.603064142039015,Secret Factory,Pacific,First Class,Sugar
+Wicked Choccy's,2239.097582000726,4.269565993471755,Secret Factory,Pacific,First Class,Sugar
+Sugar Shack,1289.8269692168508,3.161781781767236,Secret Factory,Pacific,First Class,Sugar
+Secret Factory,1248.6802999541749,3.0407259009233005,Secret Factory,Pacific,First Class,Sugar
+The Other Factory,1350.0496115799638,3.118686541552053,Secret Factory,Pacific,First Class,Sugar
+Lot's O' Nuts,702.2139834455186,1.3553592800080287,The Other Factory,Pacific,Same Day,Other
+Wicked Choccy's,3534.092191136298,4.854905094192867,The Other Factory,Pacific,Same Day,Other
+Sugar Shack,2453.910979089104,3.5842770673393165,The Other Factory,Pacific,Same Day,Other
+Secret Factory,2625.4708631822955,3.727813563664158,The Other Factory,Pacific,Same Day,Other
+The Other Factory,2664.0107603229553,3.727618717908202,The Other Factory,Pacific,Same Day,Other
+Lot's O' Nuts,3444.7116796335486,7.843749836763934,The Other Factory,Atlantic,Standard Class,Sugar
+Wicked Choccy's,1149.7480903578003,4.965855760048518,The Other Factory,Atlantic,Standard Class,Sugar
+Sugar Shack,1935.0417325446479,6.015750624676182,The Other Factory,Atlantic,Standard Class,Sugar
+Secret Factory,1388.2632992536146,5.265723476583728,The Other Factory,Atlantic,Standard Class,Sugar
+The Other Factory,1529.490107829137,5.393264112278656,The Other Factory,Atlantic,Standard Class,Sugar
+Lot's O' Nuts,1611.1418511395457,5.550808803677718,Secret Factory,Interior,Standard Class,Sugar
+Wicked Choccy's,1372.3009696557556,5.23059048458309,Secret Factory,Interior,Standard Class,Sugar
+Sugar Shack,2050.78830225571,6.147625618730613,Secret Factory,Interior,Standard Class,Sugar
+Secret Factory,1372.3643690558351,5.2338404894434,Secret Factory,Interior,Standard Class,Sugar
+The Other Factory,778.1107289883192,4.446493844058461,Secret Factory,Interior,Standard Class,Sugar
+Lot's O' Nuts,2877.935191183673,4.123235343308002,The Other Factory,Gulf,Same Day,Sugar
+Wicked Choccy's,327.3253208872165,0.9273348105505023,The Other Factory,Gulf,Same Day,Sugar
+Sugar Shack,1948.1145006609727,3.016528873610344,The Other Factory,Gulf,Same Day,Sugar
+Secret Factory,1130.8178339474791,1.9299955797528614,The Other Factory,Gulf,Same Day,Sugar
+The Other Factory,857.4372262409111,1.54179299957072,The Other Factory,Gulf,Same Day,Sugar
+Lot's O' Nuts,1107.579150381621,3.904397543680091,Sugar Shack,Pacific,Second Class,Sugar
+Wicked Choccy's,3788.7546569502565,7.216479524209785,Sugar Shack,Pacific,Second Class,Sugar
+Sugar Shack,2407.0099632943643,5.5707271901486255,Sugar Shack,Pacific,Second Class,Sugar
+Secret Factory,2741.866434468095,5.917393451295055,Sugar Shack,Pacific,Second Class,Sugar
+The Other Factory,2901.6829389216177,6.068058394847933,Sugar Shack,Pacific,Second Class,Sugar
+Lot's O' Nuts,2970.857748847082,4.185025983272469,Secret Factory,Gulf,Same Day,Other
+Wicked Choccy's,472.06583445409086,1.053583436957852,Secret Factory,Gulf,Same Day,Other
+Sugar Shack,1914.387491847598,2.920776131235188,Secret Factory,Gulf,Same Day,Other
+Secret Factory,1132.0303614881734,1.8777052264543175,Secret Factory,Gulf,Same Day,Other
+The Other Factory,957.9761696059352,1.6130579014534514,Secret Factory,Gulf,Same Day,Other
+Lot's O' Nuts,3444.7116796335486,6.855483862468626,Sugar Shack,Atlantic,Second Class,Sugar
+Wicked Choccy's,1149.7480903578003,3.977589785753211,Sugar Shack,Atlantic,Second Class,Sugar
+Sugar Shack,1935.0417325446479,5.027484650380876,Sugar Shack,Atlantic,Second Class,Sugar
+Secret Factory,1388.2632992536146,4.277457502288422,Sugar Shack,Atlantic,Second Class,Sugar
+The Other Factory,1529.490107829137,4.40499813798335,Sugar Shack,Atlantic,Second Class,Sugar
+Lot's O' Nuts,2666.733932055563,3.8967397353342457,Sugar Shack,Atlantic,Same Day,Sugar
+Wicked Choccy's,1086.8133486976728,1.9083101613752729,Sugar Shack,Atlantic,Same Day,Sugar
+Sugar Shack,1225.9498992136164,2.154429880327807,Sugar Shack,Atlantic,Same Day,Sugar
+Secret Factory,585.1048091390999,1.2873902568885298,Sugar Shack,Atlantic,Same Day,Sugar
+The Other Factory,917.2820097909005,1.6524600959091464,Sugar Shack,Atlantic,Same Day,Sugar

@@ -1,0 +1,617 @@
+City,State/Province,Country/Region,Customer Lat,Customer Lon
+Houston,Texas,United States,29.7589382,-95.3676974
+Naperville,Illinois,United States,41.7728699,-88.1479278
+Philadelphia,Pennsylvania,United States,39.9527237,-75.1635262
+Henderson,Kentucky,United States,37.76721,-87.5573742
+Athens,Georgia,United States,33.9597677,-83.376398
+Los Angeles,California,United States,34.0536909,-118.242766
+Huntsville,Texas,United States,30.7235263,-95.5507771
+Laredo,Texas,United States,27.5079211,-99.5069834
+Springfield,Virginia,United States,38.7749935,-77.1803819
+Dover,Delaware,United States,39.158168,-75.5243682
+San Francisco,California,United States,37.7879363,-122.4075201
+Mount Pleasant,South Carolina,United States,32.7927956,-79.8678322
+Newark,Ohio,United States,40.0581205,-82.4012643
+Bossier City,Louisiana,United States,32.515887,-93.7336536
+Roswell,Georgia,United States,34.02332,-84.360022
+Springfield,Oregon,United States,44.0462362,-123.0220289
+Scottsdale,Arizona,United States,33.4942189,-111.926018
+Jonesboro,Arkansas,United States,35.8348088,-90.7045297
+Westland,Michigan,United States,42.3238056,-83.4005321
+Smyrna,Tennessee,United States,35.9824598,-86.5199492
+Miami,Florida,United States,25.7741566,-80.1935973
+Toronto,Ontario,Canada,43.6534817,-79.3839347
+Lafayette,Indiana,United States,40.4191229,-86.8919011
+Las Vegas,Nevada,United States,36.1674263,-115.1484131
+Rapid City,South Dakota,United States,44.0806041,-103.228023
+Alexandria,Virginia,United States,38.8051095,-77.0470229
+San Diego,California,United States,32.7174202,-117.162772
+New York City,New York,United States,40.7127281,-74.0060152
+Detroit,Michigan,United States,42.3315509,-83.0466403
+Mission Viejo,California,United States,33.5965685,-117.659405
+Green Bay,Wisconsin,United States,44.5126379,-88.0125794
+Saint Petersburg,Florida,United States,27.7712264,-82.6340259
+Seattle,Washington,United States,47.6038321,-122.330062
+Escondido,California,United States,33.1216751,-117.0814849
+Romeoville,Illinois,United States,41.6475306,-88.0895061
+Chesapeake,Virginia,United States,36.7168315,-76.2494453
+Linden,New Jersey,United States,40.6220478,-74.2445902
+North Las Vegas,Nevada,United States,36.2005191,-115.1214745
+Columbia,Missouri,United States,38.951883,-92.3337366
+Concord,California,United States,37.9768525,-122.0335624
+Dallas,Texas,United States,32.7762719,-96.7968559
+Chicago,Illinois,United States,41.8755616,-87.6244212
+Lubbock,Texas,United States,33.5855677,-101.8470215
+Arlington,Texas,United States,32.7355816,-97.1071186
+Richmond,Indiana,United States,39.8286897,-84.8898521
+Woodstock,Illinois,United States,42.3147529,-88.4474302
+Moreno Valley,California,United States,33.9375177,-117.2305791
+El Paso,Texas,United States,31.7601001,-106.4870476
+Medford,Oregon,United States,42.3264181,-122.8718605
+Columbus,Ohio,United States,39.9622601,-83.0007065
+Elmhurst,Illinois,United States,41.8994745,-87.9403418
+Wilmington,North Carolina,United States,34.2352853,-77.9487284
+Margate,Florida,United States,26.2445263,-80.206436
+Columbia,South Carolina,United States,34.000754,-81.0352313
+Yonkers,New York,United States,40.9312099,-73.8987469
+Des Moines,Washington,United States,47.398829,-122.3099093
+Denver,Colorado,United States,39.7392364,-104.984862
+Royal Oak,Michigan,United States,42.4894801,-83.1446485
+Richmond,Kentucky,United States,37.7478572,-84.2946539
+Roseville,California,United States,38.7521235,-121.2880059
+Calgary,Alberta,Canada,51.0456064,-114.057541
+Huntington Beach,California,United States,33.6783336,-118.000016
+Logan,Utah,United States,41.7313063,-111.834914
+Jacksonville,Florida,United States,30.3262247,-81.6579179
+Tampa,Florida,United States,27.9495104,-82.4577068
+Raleigh,North Carolina,United States,35.7803977,-78.6390989
+Lakeville,Minnesota,United States,44.650051,-93.2432791
+Jackson,Mississippi,United States,32.2998686,-90.1830408
+Burbank,California,United States,34.1812089,-118.307201
+Lakeland,Florida,United States,28.0394654,-81.9498042
+Knoxville,Tennessee,United States,35.9603948,-83.9210261
+Hamilton,Ohio,United States,39.2085354,-84.5501874
+Asheville,North Carolina,United States,35.595363,-82.5508407
+Tucson,Arizona,United States,32.2228765,-110.974847
+Portage,Indiana,United States,41.5758708,-87.1761455
+Greensboro,North Carolina,United States,36.0726355,-79.7919754
+Delray Beach,Florida,United States,26.4614625,-80.0728201
+Fresno,California,United States,36.7394421,-119.78483
+Pomona,California,United States,34.0553813,-117.7517496
+Springfield,Ohio,United States,39.9234046,-83.810138
+Des Moines,Iowa,United States,41.5868654,-93.6249494
+Albuquerque,New Mexico,United States,35.0841034,-106.650985
+Plano,Texas,United States,33.0136764,-96.6925096
+Brownsville,Texas,United States,25.9024289,-97.4981698
+Long Beach,New York,United States,40.5885508,-73.6582631
+Apple Valley,Minnesota,United States,44.7319094,-93.21772
+Vallejo,California,United States,38.1040864,-122.2566367
+Revere,Massachusetts,United States,42.4084302,-71.0119948
+Virginia Beach,Virginia,United States,36.8496579,-75.9760751
+Lafayette,Louisiana,United States,30.2262187,-92.0178202
+Dearborn Heights,Michigan,United States,42.3369816,-83.2732627
+Decatur,Illinois,United States,39.8454163,-88.9524151
+Lancaster,Pennsylvania,United States,40.0379958,-76.3056707
+Mobile,Alabama,United States,30.6913462,-88.0437509
+Marietta,Georgia,United States,33.9528472,-84.5496148
+Decatur,Alabama,United States,34.6060203,-86.9838165
+Toledo,Ohio,United States,41.6529143,-83.5378173
+Glendale,Arizona,United States,33.5386858,-112.185994
+Chandler,Arizona,United States,33.3062031,-111.841185
+Lewiston,Idaho,United States,46.4195913,-117.0216144
+Great Falls,Montana,United States,47.5048851,-111.29189
+Austin,Texas,United States,30.2711286,-97.7436995
+Redondo Beach,California,United States,33.8398289,-118.3845942
+Lodi,California,United States,38.1342805,-121.2736022
+Bloomington,Indiana,United States,39.1670396,-86.5342881
+Baltimore,Maryland,United States,39.2908816,-76.610759
+San Jose,California,United States,37.3361663,-121.890591
+Arlington,Virginia,United States,38.8769326,-77.0893094
+Troy,New York,United States,42.7284117,-73.6917878
+San Gabriel,California,United States,34.0990995,-118.1085554
+Jamestown,New York,United States,42.0965167,-79.2380322
+Memphis,Tennessee,United States,35.146026,-90.0517786
+Lake Charles,Louisiana,United States,30.2305095,-93.2169807
+Rochester,New York,United States,43.157285,-77.615214
+Louisville,Kentucky,United States,38.2542376,-85.759407
+Appleton,Wisconsin,United States,44.2613967,-88.4069744
+Middletown,Connecticut,United States,41.5623178,-72.6509061
+Jackson,Michigan,United States,42.2416466,-84.425589
+San Antonio,Texas,United States,29.4246002,-98.4951405
+Freeport,Illinois,United States,42.2966861,-89.6212271
+Lawrence,Massachusetts,United States,42.7070354,-71.1631137
+Kent,Washington,United States,47.3826903,-122.2270272
+Fort Worth,Texas,United States,32.753177,-97.3327459
+Watertown,New York,United States,43.9747838,-75.9107565
+Milwaukee,Wisconsin,United States,43.0386475,-87.9090751
+Franklin,Massachusetts,United States,42.5896205,-72.6110645
+Hialeah,Florida,United States,25.8267775,-80.2814009
+West Jordan,Utah,United States,40.6061337,-111.9395211
+Oakland,California,United States,37.8044557,-122.271356
+Eau Claire,Wisconsin,United States,44.811349,-91.4984941
+Akron,Ohio,United States,41.083064,-81.518485
+Cleveland,Ohio,United States,41.4996574,-81.6936772
+Midland,Michigan,United States,43.6155825,-84.2472117
+Dover,New Hampshire,United States,43.1981117,-70.8739761
+San Marcos,Texas,United States,29.8826436,-97.9405828
+Vancouver,British Columbia,Canada,49.2608724,-123.113952
+Montreal,Quebec,Canada,45.5031824,-73.5698065
+Bellevue,Washington,United States,47.6144219,-122.192337
+Murray,Utah,United States,40.6667841,-111.888417
+Buffalo Grove,Illinois,United States,42.1544205,-87.9589621
+Richmond,Virginia,United States,37.5385087,-77.43428
+Little Rock,Arkansas,United States,34.7465071,-92.2896267
+Lakewood,New Jersey,United States,40.0940995,-74.2149889
+Orem,Utah,United States,40.2981599,-111.6944313
+Aurora,Illinois,United States,41.7571701,-88.3147539
+Peoria,Illinois,United States,40.6938609,-89.5891008
+Bristol,Tennessee,United States,36.5945034,-82.1885212
+Harrisonburg,Virginia,United States,38.4493315,-78.8688833
+Mishawaka,Indiana,United States,41.6611642,-86.1807031
+Hempstead,New York,United States,40.6736812,-73.6190736
+Newark,Delaware,United States,39.6828358,-75.7515682
+Halifax,Nova Scotia,Canada,44.648618,-63.5859487
+Lawton,Oklahoma,United States,34.6051975,-98.3952279
+Waynesboro,Virginia,United States,38.0686668,-78.8893999
+Meriden,Connecticut,United States,41.5381882,-72.8026128
+Pueblo,Colorado,United States,38.263995,-104.6141867
+Chester,Pennsylvania,United States,39.9829308,-75.7652424
+Phoenix,Arizona,United States,33.4484367,-112.074141
+Minneapolis,Minnesota,United States,44.9772995,-93.2654692
+Louisville,Colorado,United States,39.977763,-105.1319296
+Concord,North Carolina,United States,35.4094178,-80.5800049
+Salem,Oregon,United States,44.9391565,-123.033121
+Southaven,Mississippi,United States,34.9873822,-90.0034862
+Cincinnati,Ohio,United States,39.1012809,-84.5127405
+Deltona,Florida,United States,28.904843,-81.2273119
+Plainfield,New Jersey,United States,40.6201412,-74.4222416
+Aurora,Colorado,United States,39.7401441,-104.8733376
+Palm Coast,Florida,United States,29.5541432,-81.2207673
+El Cajon,California,United States,32.7947731,-116.962526
+Buffalo,New York,United States,42.8864163,-78.8781493
+Hackensack,New Jersey,United States,40.8870781,-74.0410667
+Niagara Falls,New York,United States,43.084841,-79.0701786
+League City,Texas,United States,29.5074538,-95.0949303
+Sioux Falls,South Dakota,United States,43.5476008,-96.7293629
+New Rochelle,New York,United States,40.9115386,-73.7826363
+Bristol,Connecticut,United States,41.6711752,-72.9430128
+Riverside,California,United States,33.9824949,-117.374238
+Omaha,Nebraska,United States,41.2587459,-95.9383758
+Atlanta,Georgia,United States,33.7544657,-84.3898151
+Draper,Utah,United States,40.5247777,-111.8627989
+Apopka,Florida,United States,28.6732806,-81.5116471
+Charlotte,North Carolina,United States,35.2272086,-80.8430827
+Springfield,Missouri,United States,37.2081729,-93.2922715
+Bangor,Maine,United States,44.8016255,-68.7713289
+Pleasant Grove,Utah,United States,40.3640349,-111.7386884
+Texas City,Texas,United States,29.396013,-94.9175485
+Trenton,Michigan,United States,42.1406552,-83.1800544
+Vacaville,California,United States,38.3565773,-121.9877444
+Woodstock,Georgia,United States,34.1014112,-84.5192192
+Hollywood,Florida,United States,26.0112014,-80.1494901
+Fairfield,Connecticut,United States,41.1412078,-73.2637258
+Columbus,Georgia,United States,32.4610708,-84.9880449
+Hampton,Virginia,United States,37.0264414,-76.3442846
+Lakewood,Ohio,United States,41.4819932,-81.7981908
+Saint Charles,Missouri,United States,38.783855,-90.481677
+North Miami,Florida,United States,25.8900949,-80.1867138
+Grand Rapids,Michigan,United States,42.9632425,-85.6678639
+Oceanside,New York,United States,40.6335905,-73.6376527
+Billings,Montana,United States,45.7874957,-108.49607
+Owensboro,Kentucky,United States,37.7742152,-87.1133304
+Santa Fe,New Mexico,United States,35.6876096,-105.938456
+Fayetteville,Arkansas,United States,36.0625843,-94.1574328
+Bowling Green,Ohio,United States,41.3747744,-83.6513229
+Tulsa,Oklahoma,United States,36.1563122,-95.9927516
+Oswego,Illinois,United States,41.6834778,-88.3525714
+Santa Clara,California,United States,37.2333253,-121.6846349
+Pasco,Washington,United States,46.2306739,-119.0921
+Tyler,Texas,United States,32.3512601,-95.3010624
+Macon,Georgia,United States,32.8406946,-83.6324022
+Lowell,Massachusetts,United States,42.6414437,-71.3085329
+Lancaster,Ohio,United States,39.7136754,-82.5993294
+Greenville,North Carolina,United States,35.613224,-77.3724593
+Gresham,Oregon,United States,45.4978623,-122.4329883
+Clifton,New Jersey,United States,40.8584328,-74.1637553
+Oxnard,California,United States,34.1976308,-119.180381
+Olathe,Kansas,United States,38.8838856,-94.81887
+Cary,North Carolina,United States,35.7882893,-78.7812081
+Fairfield,Ohio,United States,39.7886111,-82.6418883
+Odessa,Texas,United States,31.8457149,-102.367687
+Tempe,Arizona,United States,33.4255117,-111.940016
+Corpus Christi,Texas,United States,27.7635302,-97.4033191
+Chula Vista,California,United States,32.6400541,-117.084195
+Long Beach,California,United States,33.7690164,-118.191604
+Columbia,Maryland,United States,39.1938429,-76.8646092
+Bloomington,Illinois,United States,40.4797828,-88.9939147
+Garland,Texas,United States,32.912624,-96.6388833
+Boca Raton,Florida,United States,26.3586885,-80.0830984
+Mesquite,Texas,United States,32.7666103,-96.599472
+Fayetteville,North Carolina,United States,35.0525759,-78.878292
+Clarksville,Tennessee,United States,36.5277607,-87.3588703
+Boynton Beach,Florida,United States,26.5289139,-80.058141
+Reno,Nevada,United States,39.5261788,-119.812658
+Evanston,Illinois,United States,42.0470043,-87.6846053
+Durham,North Carolina,United States,35.996653,-78.9018053
+Edmonton,Alberta,Canada,53.5462055,-113.491241
+Indianapolis,Indiana,United States,39.7683331,-86.1583502
+Jacksonville,North Carolina,United States,34.7509962,-77.4309829
+Manteca,California,United States,37.7986184,-121.2117148
+Pasadena,California,United States,34.1476507,-118.144155
+Edmonds,Washington,United States,47.8105738,-122.3774952
+Mount Vernon,New York,United States,40.9125085,-73.8386504
+Everett,Massachusetts,United States,42.4085897,-71.0542002
+Concord,New Hampshire,United States,43.207178,-71.537476
+Parma,Ohio,United States,41.3822398,-81.7355692
+Beaumont,Texas,United States,30.0829344,-94.0984277
+Montgomery,Alabama,United States,32.3777111,-86.3090775
+Texarkana,Arkansas,United States,33.4254259,-94.0430937
+Lakewood,California,United States,33.8503463,-118.117191
+Newport News,Virginia,United States,36.9775016,-76.42977
+Rancho Cucamonga,California,United States,34.1033192,-117.575173
+Rock Hill,South Carolina,United States,34.9248667,-81.0250784
+Fort Lauderdale,Florida,United States,26.1223084,-80.1433786
+Garden City,Kansas,United States,37.9716898,-100.8726618
+Columbus,Indiana,United States,39.2014405,-85.9213796
+Cranston,Rhode Island,United States,41.779588,-71.4366813
+Lorain,Ohio,United States,41.2633554,-82.1734746
+Avondale,Arizona,United States,33.4355977,-112.349602
+Mason,Ohio,United States,39.3600586,-84.309939
+Orange,New Jersey,United States,40.7709499,-74.2264601
+Portland,Oregon,United States,45.5202471,-122.674194
+Medina,Ohio,United States,41.1000764,-81.9382517
+Irving,Texas,United States,32.8295183,-96.9442177
+Nashville,Tennessee,United States,36.1622767,-86.7742984
+Wausau,Wisconsin,United States,44.9597858,-89.6272791
+Redding,California,United States,40.5863563,-122.391675
+Reading,Pennsylvania,United States,40.335345,-75.9279495
+Madison,Wisconsin,United States,43.07469,-89.3841663
+Carrollton,Texas,United States,32.9515472,-96.9034244
+Pasadena,Texas,United States,29.6910753,-95.2092076
+Johnson City,Tennessee,United States,36.3167671,-82.352903
+Manhattan,Kansas,United States,39.1836082,-96.5716694
+Moorhead,Minnesota,United States,46.8739081,-96.7538674
+Cedar Hill,Texas,United States,32.5888072,-96.9553675
+Des Plaines,Illinois,United States,42.0415823,-87.8873916
+Franklin,Wisconsin,United States,42.888627,-88.0384183
+Provo,Utah,United States,40.2337289,-111.6587085
+Wilmington,Delaware,United States,39.7459468,-75.546589
+Salt Lake City,Utah,United States,40.7596198,-111.886797
+Coon Rapids,Minnesota,United States,45.1728923,-93.3023898
+Monroe,Louisiana,United States,32.5025471,-92.116219
+Bolingbrook,Illinois,United States,41.7003302,-88.0717708
+Sacramento,California,United States,38.5810606,-121.493895
+Saint Louis,Missouri,United States,38.6254063,-90.190009
+St. John's,Newfoundland and Labrador,Canada,47.5646794,-52.7066964
+Woonsocket,Rhode Island,United States,42.0028761,-71.5147839
+Brentwood,California,United States,37.9317766,-121.696026
+Utica,New York,United States,43.1009031,-75.2326641
+Tigard,Oregon,United States,45.4307473,-122.771933
+Freeport,New York,United States,40.6576071,-73.5835826
+Skokie,Illinois,United States,42.0262972,-87.7521069
+Orlando,Florida,United States,28.5421218,-81.379045
+Clinton,Maryland,United States,38.7522607,-76.8969155
+Sandy Springs,Georgia,United States,33.9242688,-84.3785379
+Moncton,New Brunswick,Canada,46.0985679,-64.8004265
+Oklahoma City,Oklahoma,United States,35.4729886,-97.5170536
+Gilbert,Arizona,United States,33.3527632,-111.789037
+Olympia,Washington,United States,47.0451022,-122.8950075
+Mesa,Arizona,United States,33.4151005,-111.831455
+Caldwell,Idaho,United States,43.6678736,-116.689415
+Marion,Ohio,United States,40.5885271,-83.1895249
+Florence,Alabama,United States,34.79981,-87.677251
+Columbia,Tennessee,United States,35.6148165,-87.0338464
+Grand Prairie,Texas,United States,32.7459645,-96.9977846
+Thornton,Colorado,United States,39.8695516,-104.985181
+Port Arthur,Texas,United States,29.8716577,-93.9332302
+Colorado Springs,Colorado,United States,38.8339578,-104.825348
+Beverly,Massachusetts,United States,42.5489744,-70.8781883
+Anaheim,California,United States,33.8347516,-117.911732
+Saint Charles,Illinois,United States,41.9484385,-88.321444
+Kent,Ohio,United States,41.1513108,-81.3578047
+Cottage Grove,Minnesota,United States,44.8277446,-92.9438218
+Quebec City,Quebec,Canada,46.8137431,-71.2084061
+Taylor,Michigan,United States,42.240872,-83.2696509
+Charlottetown,Prince Edward Island,Canada,46.2354187,-63.1265388
+Providence,Rhode Island,United States,41.8239891,-71.4128343
+Baytown,Texas,United States,29.7355047,-94.9774274
+Woodbury,Minnesota,United States,44.919896,-92.9339449
+Park Ridge,Illinois,United States,42.0112329,-87.8406031
+Bartlett,Tennessee,United States,35.2045329,-89.8739753
+Bozeman,Montana,United States,45.6794293,-111.044047
+West Palm Beach,Florida,United States,26.715364,-80.0532942
+Rome,New York,United States,43.2102196,-75.4583956
+Suffolk,Virginia,United States,36.7281341,-76.5834683
+Kenosha,Wisconsin,United States,42.5846773,-87.8212263
+Perth Amboy,New Jersey,United States,40.5133218,-74.2724241
+Hot Springs,Arkansas,United States,34.5038393,-93.0552437
+Las Cruces,New Mexico,United States,32.3140354,-106.779807
+Sterling Heights,Michigan,United States,42.5803122,-83.0302033
+Leominster,Massachusetts,United States,42.5267443,-71.7614891
+Altoona,Pennsylvania,United States,40.5193586,-78.3968299
+Coppell,Texas,United States,32.9552598,-97.0155703
+Bethlehem,Pennsylvania,United States,40.6178915,-75.3786521
+New Castle,Indiana,United States,39.9289351,-85.3702477
+Plantation,Florida,United States,26.1275862,-80.2331036
+Chico,California,United States,39.7284945,-121.8374777
+Lehi,Utah,United States,40.3881114,-111.8486019
+Auburn,Alabama,United States,32.6098566,-85.4807825
+San Bernardino,California,United States,34.8253019,-116.0833144
+Lancaster,California,United States,34.6981064,-118.1366153
+Huntsville,Alabama,United States,34.729847,-86.5859011
+Thousand Oaks,California,United States,34.1705609,-118.8375937
+Florence,South Carolina,United States,34.1984435,-79.7671658
+Covington,Washington,United States,47.3657791,-122.100222
+Coral Springs,Florida,United States,26.271192,-80.2706044
+Normal,Illinois,United States,40.5092961,-88.9843937
+Lansing,Michigan,United States,42.7338254,-84.5546295
+Spokane,Washington,United States,47.6571934,-117.42351
+Norwich,Connecticut,United States,41.5243631,-72.0759134
+Norfolk,Nebraska,United States,42.0283379,-97.4169964
+Farmington,New Mexico,United States,36.7291152,-108.205445
+Mcallen,Texas,United States,26.204114,-98.2300605
+New Albany,Indiana,United States,38.2856247,-85.8241312
+Santa Maria,California,United States,34.9531295,-120.435857
+Daytona Beach,Florida,United States,29.2108147,-81.0228331
+Washington,District of Columbia,United States,38.8950982,-77.0363849
+Troy,Ohio,United States,40.0394982,-84.2032767
+Tinley Park,Illinois,United States,41.5733669,-87.7844944
+Allen,Texas,United States,33.1031744,-96.6705503
+Cuyahoga Falls,Ohio,United States,41.1362729,-81.4828123
+Camarillo,California,United States,34.2176371,-119.0383541
+Wilson,North Carolina,United States,35.7059114,-77.9175714
+Frankfort,Illinois,United States,41.4979467,-87.8495946
+Wichita,Kansas,United States,37.6922361,-97.3375448
+Haltom City,Texas,United States,32.7995738,-97.2691817
+Manchester,Connecticut,United States,41.7834017,-72.5231973
+Paterson,New Jersey,United States,40.9167654,-74.171811
+Pocatello,Idaho,United States,42.8620287,-112.450627
+Lewiston,Maine,United States,44.0990717,-70.2177099
+Peoria,Arizona,United States,33.5806115,-112.237294
+Layton,Utah,United States,41.0751048,-111.9741925
+East Point,Georgia,United States,33.6795531,-84.4393724
+Smyrna,Georgia,United States,33.883887,-84.5147454
+Carol Stream,Illinois,United States,41.9125286,-88.1347927
+Holyoke,Massachusetts,United States,42.2071184,-72.6075851
+Vineland,New Jersey,United States,39.4862777,-75.0254256
+Amarillo,Texas,United States,35.20729,-101.8371192
+Bakersfield,California,United States,35.3738712,-119.019463
+Port Saint Lucie,Florida,United States,27.2939333,-80.3503283
+Highland Park,Illinois,United States,42.1836719,-87.7993245
+South Bend,Indiana,United States,41.6833813,-86.2500066
+Hattiesburg,Mississippi,United States,31.3271189,-89.2903392
+Kirkwood,Missouri,United States,38.5800713,-90.4069177
+Boise,Idaho,United States,43.6166163,-116.200886
+Redmond,Oregon,United States,44.2726203,-121.173921
+Eagan,Minnesota,United States,44.818173,-93.1659179
+Yucaipa,California,United States,34.033625,-117.0430865
+New Bedford,Massachusetts,United States,41.6362152,-70.934205
+Florence,Kentucky,United States,38.9989499,-84.6266111
+Allentown,Pennsylvania,United States,40.6022552,-75.4716115
+Murrieta,California,United States,33.560832,-117.210656
+Bedford,Texas,United States,32.844017,-97.1430671
+Holland,Michigan,United States,42.7876022,-86.1090828
+Charlottesville,Virginia,United States,38.029306,-78.4766781
+Rochester,Minnesota,United States,44.0234387,-92.4630182
+Tamarac,Florida,United States,26.2128609,-80.2497707
+La Quinta,California,United States,33.677474,-116.2958789
+Redlands,California,United States,34.0550328,-117.1827445
+Auburn,New York,United States,42.9320202,-76.5672029
+North Charleston,South Carolina,United States,32.8546197,-79.9748103
+Lincoln Park,Michigan,United States,42.2505943,-83.1785361
+Quincy,Massachusetts,United States,42.2509914,-71.0037374
+Oceanside,California,United States,33.1958696,-117.379483
+Franklin,Tennessee,United States,35.925206,-86.8689419
+Dubuque,Iowa,United States,42.5006243,-90.6647985
+Broken Arrow,Oklahoma,United States,36.0525993,-95.7908195
+Rockford,Illinois,United States,42.2713945,-89.093966
+Murfreesboro,Tennessee,United States,35.8460396,-86.3921096
+Bayonne,New Jersey,United States,40.6687141,-74.1143091
+Cambridge,Massachusetts,United States,42.3656347,-71.1040018
+Quincy,Illinois,United States,39.9356016,-91.4098727
+Hillsboro,Oregon,United States,45.5228939,-122.989827
+Rockville,Maryland,United States,39.0817985,-77.1516844
+Warner Robins,Georgia,United States,32.6200973,-83.606568
+Ann Arbor,Michigan,United States,42.2813722,-83.7484616
+Santa Barbara,California,United States,34.4221319,-119.702667
+Noblesville,Indiana,United States,40.0460881,-86.0139854
+Mount Pleasant,Michigan,United States,43.597646,-84.7668495
+Orland Park,Illinois,United States,41.630663,-87.8536288
+Sparks,Nevada,United States,39.5347691,-119.7552534
+Salinas,California,United States,36.6744117,-121.655037
+Conway,Arkansas,United States,35.0891932,-92.4398402
+Monroe,North Carolina,United States,34.9854275,-80.5495112
+Burlington,Vermont,United States,44.4761601,-73.212906
+Lawrence,Indiana,United States,38.8400395,-86.4880717
+Roseville,Minnesota,United States,45.0060767,-93.1566107
+Helena,Montana,United States,46.5927425,-112.036277
+Lebanon,Tennessee,United States,36.2079779,-86.2910945
+Rio Rancho,New Mexico,United States,35.3108227,-106.6847453
+Frisco,Texas,United States,33.1505998,-96.8238183
+Morristown,New Jersey,United States,40.7970382,-74.4809868
+Jackson,Tennessee,United States,35.6144446,-88.8177418
+Lake Elsinore,California,United States,33.6680772,-117.3272615
+Pembroke Pines,Florida,United States,26.0061943,-80.2872086
+Champaign,Illinois,United States,40.1164841,-88.2430932
+Dearborn,Michigan,United States,42.3222599,-83.1763145
+Santa Ana,California,United States,33.7494951,-117.873221
+Tallahassee,Florida,United States,30.4380832,-84.2809332
+Temecula,California,United States,33.4946353,-117.147366
+Costa Mesa,California,United States,33.6633386,-117.903317
+Glenview,Illinois,United States,42.0700662,-87.8114044
+Bullhead City,Arizona,United States,35.1449998,-114.5627804
+Lindenhurst,New York,United States,40.6867667,-73.3734547
+Superior,Wisconsin,United States,46.7207737,-92.1040796
+Dublin,Ohio,United States,40.0996009,-83.1135563
+Visalia,California,United States,36.3302284,-119.292058
+Missoula,Montana,United States,46.8701049,-113.995267
+Gaithersburg,Maryland,United States,39.1399187,-77.1929215
+Longview,Washington,United States,46.1377048,-122.934462
+Westfield,New Jersey,United States,40.651726,-74.3483059
+Gulfport,Mississippi,United States,30.3674198,-89.0928155
+Atlantic City,New Jersey,United States,39.3642852,-74.4229351
+Sierra Vista,Arizona,United States,31.5647691,-110.2742994
+Chattanooga,Tennessee,United States,35.0457219,-85.3094883
+Belleville,New Jersey,United States,40.7937116,-74.1501438
+La Crosse,Wisconsin,United States,43.8122836,-91.2514355
+Round Rock,Texas,United States,30.5085915,-97.6788056
+Andover,Massachusetts,United States,42.65717,-71.1408776
+Milford,Connecticut,United States,41.2222218,-73.0570603
+Harlingen,Texas,United States,26.1907543,-97.6960599
+Redwood City,California,United States,37.4863239,-122.232523
+Bryan,Texas,United States,30.6743643,-96.3699632
+Malden,Massachusetts,United States,42.4268484,-71.0683741
+Littleton,Colorado,United States,39.613321,-105.016649
+Saint Peters,Missouri,United States,38.791612,-90.5958468
+Norman,Oklahoma,United States,35.2225717,-97.4394816
+Grapevine,Texas,United States,32.9337381,-97.0788754
+Gastonia,North Carolina,United States,35.2622654,-81.1838186
+Jefferson City,Missouri,United States,38.577359,-92.1724265
+San Clemente,California,United States,33.4270275,-117.6124179
+Hesperia,California,United States,34.4220358,-117.3046869
+Henderson,Nevada,United States,36.0319602,-114.9822716
+Encinitas,California,United States,33.0369867,-117.2919818
+Salem,Virginia,United States,37.293198,-80.0556773
+Yuma,Arizona,United States,32.7210307,-114.6203217
+Waterbury,Connecticut,United States,41.5541144,-73.0435615
+Warwick,Rhode Island,United States,41.6992717,-71.4586114
+Passaic,New Jersey,United States,41.0461864,-74.3177933
+Parker,Colorado,United States,39.5184514,-104.7612638
+Longmont,Colorado,United States,40.1672117,-105.101928
+York,Pennsylvania,United States,39.962493,-76.7276989
+Roseville,Michigan,United States,42.4972583,-82.9371409
+Broomfield,Colorado,United States,39.9403995,-105.05208
+Winnipeg,Manitoba,Canada,49.8955367,-97.1384584
+Bowling Green,Kentucky,United States,36.9929203,-86.4428677
+Pensacola,Florida,United States,30.421309,-87.2169149
+Hendersonville,Tennessee,United States,36.3049177,-86.621443
+West Allis,Wisconsin,United States,43.0166806,-88.0070315
+Kenner,Louisiana,United States,29.9942265,-90.2417806
+Davis,California,United States,38.5435526,-121.739005
+Edinburg,Texas,United States,26.3013982,-98.1624501
+Fort Collins,Colorado,United States,40.5871782,-105.0770113
+Pharr,Texas,United States,26.1947962,-98.1836216
+Sheboygan,Wisconsin,United States,43.7128967,-87.9370433
+Englewood,Colorado,United States,39.6482059,-104.9879641
+Waco,Texas,United States,31.5491899,-97.1474628
+Waukesha,Wisconsin,United States,43.0622536,-88.3123889
+Georgetown,Kentucky,United States,38.2099837,-84.5597128
+Cedar Rapids,Iowa,United States,41.9758872,-91.6704053
+Saint Paul,Minnesota,United States,44.9497487,-93.0931028
+Thomasville,North Carolina,United States,35.8831786,-80.081817
+Wheeling,Illinois,United States,42.138889,-87.9310944
+Stockton,California,United States,37.9577016,-121.290779
+Arvada,Colorado,United States,39.8005505,-105.0811573
+Twin Falls,Idaho,United States,42.5558542,-114.4700684
+Laguna Niguel,California,United States,33.5225261,-117.7075526
+Marlborough,Massachusetts,United States,42.3468589,-71.5525188
+Redmond,Washington,United States,47.6694141,-122.1238767
+Woodland,California,United States,38.6786109,-121.7733285
+Regina,Saskatchewan,Canada,50.4479733,-104.6158764
+Iowa City,Iowa,United States,41.6612561,-91.5299106
+La Porte,Indiana,United States,41.6105983,-86.7225227
+Lake Forest,California,United States,33.6469261,-117.6859213
+Coral Gables,Florida,United States,25.7331105,-80.2585107
+The Colony,Texas,United States,33.0890094,-96.8863922
+Marysville,Washington,United States,48.0517429,-122.1768209
+La Porte,Texas,United States,29.6657838,-95.0193729
+Bridgeton,New Jersey,United States,39.4269659,-75.2341587
+San Luis Obispo,California,United States,35.3540209,-120.375716
+Conroe,Texas,United States,30.3118769,-95.4560512
+Urbandale,Iowa,United States,41.6274511,-93.7380243
+Eugene,Oregon,United States,44.0505054,-123.0950506
+Cheyenne,Wyoming,United States,41.139981,-104.820246
+Arlington Heights,Illinois,United States,42.0811563,-87.9802164
+Auburn,Washington,United States,47.3075369,-122.2301808
+Vancouver,Washington,United States,45.6306954,-122.6744557
+Burlington,North Carolina,United States,36.0956918,-79.4377991
+Carlsbad,New Mexico,United States,32.4257456,-104.237612
+Edmond,Oklahoma,United States,35.6571367,-97.4649038
+Montebello,California,United States,34.0159398,-118.111975
+Shelton,Connecticut,United States,41.3164856,-73.0931641
+East Orange,New Jersey,United States,40.7642404,-74.215011
+Overland Park,Kansas,United States,38.9742502,-94.6851702
+Hickory,North Carolina,United States,35.7333312,-81.3442915
+San Angelo,Texas,United States,31.4649685,-100.4405094
+Marion,Iowa,United States,41.3144108,-93.1010141
+Morgan Hill,California,United States,37.130408,-121.6544974
+Murray,Kentucky,United States,36.6106122,-88.3021092
+Antioch,California,United States,38.0093296,-121.8106925
+Richardson,Texas,United States,32.9481789,-96.7297206
+Fremont,Nebraska,United States,41.4338363,-96.4960449
+Greenwood,Indiana,United States,39.6136987,-86.1095429
+Homestead,Florida,United States,25.4718946,-80.4759905
+Torrance,California,United States,33.8371392,-118.3413606
+Apple Valley,California,United States,34.5008311,-117.1858759
+Goldsboro,North Carolina,United States,35.3848841,-77.9927651
+Nashua,New Hampshire,United States,42.7656251,-71.4677032
+Deer Park,Texas,United States,29.7052284,-95.1238204
+Tuscaloosa,Alabama,United States,33.2095614,-87.5675258
+Ormond Beach,Florida,United States,29.2854132,-81.0557921
+Keller,Texas,United States,32.9299655,-97.2271249
+Hoover,Alabama,United States,33.350293,-86.851123
+Muskogee,Oklahoma,United States,35.6630196,-95.3927706
+Rogers,Arkansas,United States,36.334857,-94.1193816
+Pompano Beach,Florida,United States,26.2378597,-80.1247667
+Fairfield,California,United States,38.2493581,-122.039966
+Oak Park,Michigan,United States,42.4595317,-83.1821445
+New Brunswick,New Jersey,United States,40.4936119,-74.4436416
+Greeley,Colorado,United States,40.4233142,-104.7091322
+Kissimmee,Florida,United States,28.2918995,-81.4075838
+Sanford,Florida,United States,28.8117345,-81.2680223
+Danville,Illinois,United States,40.125222,-87.6304614
+Westminster,California,United States,33.7578725,-117.9859054
+Mansfield,Texas,United States,32.563487,-97.1420308
+Fargo,North Dakota,United States,46.877229,-96.789821
+Laurel,Maryland,United States,39.0984317,-76.8485094
+Bellingham,Washington,United States,48.7544012,-122.478836
+Missouri City,Texas,United States,29.6185669,-95.5377215
+Pearland,Texas,United States,29.5639758,-95.2864299
+Rochester Hills,Michigan,United States,42.6583661,-83.1499322
+Maple Grove,Minnesota,United States,45.0984983,-93.4419222
+Chapel Hill,North Carolina,United States,35.9131542,-79.05578
+Commerce City,Colorado,United States,39.8083196,-104.9338675
+Wheeling,West Virginia,United States,40.0639616,-80.7209149
+Citrus Heights,California,United States,38.7071247,-121.2810611
+Pico Rivera,California,United States,33.9830688,-118.096735
+San Mateo,California,United States,37.496904,-122.3330573
+Waterloo,Iowa,United States,42.498275,-92.3328743
+Elkhart,Indiana,United States,41.6012796,-85.8590603
+Loveland,Colorado,United States,40.3977612,-105.07498
+Inglewood,California,United States,33.9562003,-118.353132
+La Mesa,California,United States,32.7678288,-117.0230839
+Modesto,California,United States,37.6393419,-120.9968892
+Independence,Missouri,United States,39.0924792,-94.4137923
+Clovis,New Mexico,United States,34.405472,-103.2050709
+Grand Island,Nebraska,United States,40.924271,-98.338685
+Melbourne,Florida,United States,28.0785034,-80.6077908
+Pine Bluff,Arkansas,United States,34.2228884,-92.004334
+Saint Cloud,Minnesota,United States,45.5616075,-94.1642004
+Miramar,Florida,United States,25.9873137,-80.2322706
+Mentor,Ohio,United States,41.6664781,-81.3399769
+Meridian,Idaho,United States,43.6086295,-116.392326
+Danville,California,United States,37.8225892,-122.0008254
+Springdale,Arkansas,United States,36.1867442,-94.1288142
+Sunnyvale,California,United States,37.3688301,-122.036349
+Coachella,California,United States,33.6794956,-116.17628
+Aberdeen,South Dakota,United States,45.4649805,-98.487813
+Jupiter,Florida,United States,26.9342246,-80.0942087
+Dublin,California,United States,37.7021521,-121.9357918
+Grove City,Ohio,United States,39.8814519,-83.0929645
+Elyria,Ohio,United States,41.3673191,-82.1073583
+Hagerstown,Maryland,United States,39.6430455,-77.7191081
+Saginaw,Michigan,United States,43.4200387,-83.9490365
+College Station,Texas,United States,30.6183939,-96.3455991
+Ontario,California,United States,34.065846,-117.64843
+Renton,Washington,United States,47.4799078,-122.2034496
+Canton,Michigan,United States,42.7269261,-84.6433146
+Summerville,South Carolina,United States,33.0186699,-80.1762704
+Gladstone,Missouri,United States,39.2214765,-94.5719748
+Whittier,California,United States,33.9749136,-118.0338664
+Abilene,Texas,United States,32.44645,-99.7475905
+Burlington,Iowa,United States,40.8126922,-91.1020205
+Palatine,Illinois,United States,42.1105502,-88.0434304
+Oak Park,Illinois,United States,41.8878145,-87.7887615
+Port Orange,Florida,United States,29.1386874,-80.9968286
+Danbury,Connecticut,United States,41.394817,-73.4540111
+Everett,Washington,United States,47.9793437,-122.2127011
